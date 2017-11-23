@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android02_RGB</string>
+    <string name="willkommen">Herzlich willkommen</string>
+    <string name="rot">Rot</string>
+    <string name="gelb">Gelb</string>
+    <string name="beenden">Beenden</string>
+</resources>
