@@ -48,6 +48,5 @@ public class MainActivity extends Activity {
                 btnBeenden.getRootView().setBackgroundColor(Color.RED);
             }
         });
-
     }
 }
